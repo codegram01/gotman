@@ -9,6 +9,8 @@ ooO--(_)--Ooo-8---(_)--OooooO--`o'--OooooO
 Gotman is an CLI API Client write in Go.
 It like Postman or Curl alternative 
 
+[Video when i create gotman](https://youtu.be/-oDIp2BBs6w)
+
 # Feature 
 - Make api request (http request) like Postman
 - Work in CLI, so you can test your api when ssh in Server 
