@@ -1,0 +1,6 @@
+{
+    "BASE_API": "http://localhost:8000/api",
+    "HEADERS": {
+        "Content-Type": "application/json"
+    }
+}
